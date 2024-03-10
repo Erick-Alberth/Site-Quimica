@@ -130,7 +130,6 @@ header h1 {
     -webkit-background-clip: text; /*Alguns navegadores precisam do prefixo*/
     -webkit-text-fill-color: transparent; /*Terceiro passo: apagar o texto, deixando apenas o fundo atrás dele*/
     color: black; /*Cor que contraste com o degradê, caso o navegador não suporte `background-clip: text`*/
-  
 }
 
 nav {
